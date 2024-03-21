@@ -1,0 +1,84 @@
+.bg-image{
+    background-color:black;
+    background-size:cover;
+    height:100vh;
+}
+.card-1{
+    background-color:white;
+    width:100%;
+    color:black;
+    margin-top:100px;
+    border-radius:10px;
+}
+h1{
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+    text-align:center;
+    padding-top:10px;
+    padding-bottom:10px;
+}
+
+.amountinput{
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+    padding-top:5px;
+    margin-bottom:5px;
+    margin-left:10px;
+     margin-right:10px;
+    
+    
+  
+}
+.lableclass{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+    padding-top:5px;
+    margin-top:5px;
+    margin-left:10px;
+    
+
+}
+#calculateamout{
+    
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+    padding-top:5px;
+    margin-top:10px;
+    margin-left:10px;
+    text-align:center;
+}
+.btns{
+    text-align:center;
+}
+#convert{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    background-color:green;
+    color:white;
+    border-radius:5px;
+    margin:5px;
+    padding:5px;
+    width:100px;
+}
+#clear{
+    font-family:'Times New Roman', Times, serif;
+    font-size:20px;
+    background-color:rgb(159, 32, 7);
+    color:white;
+    border-radius:5px;
+    margin:5px;
+    padding:5px;
+    width:100px;
+}
+.amountcolor{
+     
+    font-family:'Times New Roman', Times, serif;
+    font-size:25px;
+    padding-top:5px;
+    margin-top:10px;
+    margin-left:10px;
+    text-align:center;
+    color:red;
+    
+}
